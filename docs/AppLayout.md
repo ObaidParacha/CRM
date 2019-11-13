@@ -1,7 +1,7 @@
 
  Authentication
  -Register
-- -Login
+ -Login
 - Dashboard
 - Users
 - -Admins
