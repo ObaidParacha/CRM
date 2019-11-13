@@ -1,6 +1,6 @@
 
-- Authentication
-- -Register
+ Authentication
+ -Register
 - -Login
 - Dashboard
 - Users
